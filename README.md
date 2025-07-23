@@ -1,2 +1,2 @@
 # Quant
-Quant Codes
+Code for my project from Quantitative Methods in Epidemiology.
